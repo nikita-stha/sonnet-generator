@@ -9,6 +9,7 @@ You can run the project from [here](https://replit.com/@nikita-stha/SonnetGenera
 - Huggingface Inference API token. (Your model needs to be deployed in huggingface)
 - Docker for local ( development & deployent)
 - Docker-compose
+- Link to train, and deploy GPT-2 model is [here](https://colab.research.google.com/drive/1KMexutfpNDpraKwyX717sJ9t34Imr3ll?usp=sharing).
 
 ## Quickstart Guide for Local Development
 

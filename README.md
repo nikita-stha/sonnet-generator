@@ -1,8 +1,8 @@
-# Pnuemonia Detector
+# Sonnet Generator
 A simple web application to generate william shakespeare sonnets.
 
 ## Demo
-You can run the project from h[here](https://replit.com/@nikita-stha/SonnetGenerator?v=1).
+You can run the project from [here](https://replit.com/@nikita-stha/SonnetGenerator?v=1).
 
 ## System Requirements
 - Python3
@@ -14,7 +14,7 @@ You can run the project from h[here](https://replit.com/@nikita-stha/SonnetGener
 
 1. First clone this repository through 
 
-`https://github.com/nikita-stha/pneumonia-detector.git`
+`https://github.com/nikita-stha/sonnet-generator.git`
 
 2. Run`cd sonnet-generator`
 
